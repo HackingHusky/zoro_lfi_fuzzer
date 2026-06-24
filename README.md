@@ -3,8 +3,6 @@
 An ultra-fast, asynchronous Local File Inclusion (LFI) fuzzing tool forged in the spirit of Pirate Hunter Roronoa Zoro. Built specifically to eliminate noise and slash open targets during high-speed triage environments like **CPTS** and **OSCP**.
 
 
-,/|      _   _/|_   ( )( )_        --- SANTORYU LFI FUZZER ---(  _  ) (_  _ _  _)       [ Wado Ichimonji | Sandai Kitetsu | Shusui ]| || |   | | | |__/   () ()
-
 ## ⚡ Features
 
 *   **Three-Sword Speed**: Powered by Python's `asyncio` and `aiohttp` for blindingly fast concurrent network requests.
