@@ -1,4 +1,6 @@
 # ⚔️ Santoryu LFI Fuzzer (wado_ichimonji_lfi.py)
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/bbb198ee-12ab-43f1-998b-fc7803d34e5d" />
+
 
 An ultra-fast, asynchronous Local File Inclusion (LFI) fuzzing tool forged in the spirit of Pirate Hunter Roronoa Zoro. Built specifically to eliminate noise and slash open targets during high-speed triage environments like **CPTS** and **OSCP**.
 
